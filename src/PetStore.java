@@ -25,7 +25,6 @@ public class PetStore {
 //        for (Pet pet : pets) {
 //            System.out.println(pet);
 //        }
-	    //Another comment
         
        
         Pet dog = new Pet("Dog", "Coco");
